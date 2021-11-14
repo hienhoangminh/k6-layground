@@ -11,4 +11,4 @@ jobs:
       - name: Run k6 local test
         uses: k6io/action@v0.1
         with:
-          filenane: test.js
+          filename: test.js
