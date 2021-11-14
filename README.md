@@ -1,1 +1,1 @@
-# k6-layground
+# k6-playground
